@@ -1,0 +1,38 @@
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\bin\Debug\Служба заказа Такси.exe.config
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\bin\Debug\Служба заказа Такси.exe
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\bin\Debug\Служба заказа Такси.pdb
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба заказа Такси.csprojAssemblyReference.cache
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form1.resources
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Properties.Resources.resources
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба заказа Такси.csproj.GenerateResource.cache
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба заказа Такси.exe
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба заказа Такси.pdb
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form2.resources
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form3.resources
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form4.resources
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form5.resources
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form6.resources
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form7.resources
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\bin\Debug\Служба заказа Такси.exe.manifest
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\bin\Debug\Служба заказа Такси.application
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба заказа Такси.exe.manifest
+C:\Users\MTE\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба заказа Такси.application
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба заказа Такси.csprojAssemblyReference.cache
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба заказа Такси.exe
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба заказа Такси.pdb
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\bin\Debug\Служба заказа Такси.exe.config
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\bin\Debug\Служба заказа Такси.exe.manifest
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\bin\Debug\Служба заказа Такси.application
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\bin\Debug\Служба заказа Такси.exe
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\bin\Debug\Служба заказа Такси.pdb
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form1.resources
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form2.resources
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form3.resources
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form4.resources
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form5.resources
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form6.resources
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Form7.resources
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба_заказа_Такси.Properties.Resources.resources
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба заказа Такси.csproj.GenerateResource.cache
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба заказа Такси.exe.manifest
+C:\Users\studkab7\Desktop\Служба заказа такси\Служба заказа Такси\Служба заказа Такси\obj\Debug\Служба заказа Такси.application
